@@ -1,1 +1,1 @@
-
+"Passionate data analyst with a flair for transforming raw data into actionable insights. Proficient in leveraging advanced analytics, statistical techniques, and data visualization tools. Explore my GitHub for projects showcasing expertise in extracting meaningful patterns from diverse datasets and driving informed decision-making through data-driven narratives."
