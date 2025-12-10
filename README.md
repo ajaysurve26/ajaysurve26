@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajaysurve26/AjaySurve/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ajaysurve26/ajaysurve26/main/banner.png" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
