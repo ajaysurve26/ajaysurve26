@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajaysurve26/AjaySurve/main/banner.png" width="100%" />
-</p>
+
 ### 👋 Hi, I'm Ajay — Data Engineer
 
 Building data systems using Spark, Kafka, Flink, Airflow, Iceberg, Databricks & Snowflake.  
