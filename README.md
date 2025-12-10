@@ -66,6 +66,5 @@ AWS + Lambda + PySpark + MLflow
   </a>
 </p>
 
-## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaysurve26&show_icons=true&hide_border=false&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysurve26&layout=compact&hide_border=false&theme=radical)
+
+
